@@ -1,4 +1,4 @@
-# GitHub-Actions-Attack-Diagram
+# GitHub Actions Attack Diagram
 
 This GitHub Actions Attack Diagram designed to support talks I delivered with [Adnan Khan ](https://adnanthekhan.com/) at Black Hat USA 2024 ([Continuous Integration, Continuous Desctruction](https://www.blackhat.com/us-24/briefings/schedule/index.html#self-hosted-github-cicd-runners-continuous-integration-continuous-destruction-38308)) and DEF CON 32 ([Grand Theft Actions](https://defcon.org/html/defcon-32/dc-32-speakers.html#54489)).
 
