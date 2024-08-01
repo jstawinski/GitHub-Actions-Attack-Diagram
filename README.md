@@ -1,10 +1,11 @@
 # GitHub Actions Attack Diagram
 
-The GitHub Actions Attack Diagram supporst talks I delivered with [Adnan Khan ](https://adnanthekhan.com/) at Black Hat USA 2024 ([Continuous Integration, Continuous Desctruction](https://www.blackhat.com/us-24/briefings/schedule/index.html#self-hosted-github-cicd-runners-continuous-integration-continuous-destruction-38308)) and DEF CON 32 ([Grand Theft Actions](https://defcon.org/html/defcon-32/dc-32-speakers.html#54489)).
+The GitHub Actions Attack Diagram provides guidance for identifying GitHub Actions vulnerabilities. Starting with read-only or write access to a GitHub organization/repository, you can follow the diagram to determine how to identify and exploit GitHub Actions misconfigurations, from self-hosted runner takeover, to PWN requests, to secrets exfiltration. Throughout the diagram, various resources are linked to provide additional context.
 
-The GitHub Actions Attack Diagram provides guidance for identifying GitHub Actions vulnerabilities. Starting with read-only or write access to a GitHub organization/repository, you can follow the diagram to determine what you should look for and how you can exploit. The diagram outlines common attack paths Adnan and I have used on Red Team engagements and during public vulnerability research. Throughout the diagram, various resources are linked to provide additional context.
 
-These attack paths may change over time as GitHub updates their internal configurations. If you notice that certain TTPs are no longer valid, or to request the addition of new TTPs, please leave an Issue comment. 
+The diagram outlines common attack paths [Adnan Khan ](https://adnanthekhan.com/) and I have used on Red Team engagements and during public vulnerability research. We presented this research in-depth at Black Hat USA 2024 ([Continuous Integration, Continuous Desctruction](https://www.blackhat.com/us-24/briefings/schedule/index.html#self-hosted-github-cicd-runners-continuous-integration-continuous-destruction-38308)) and DEF CON 32 ([Grand Theft Actions](https://defcon.org/html/defcon-32/dc-32-speakers.html#54489)).
+
+These attack paths may change over time as GitHub updates their internal configurations. If you notice that certain TTPs are no longer valid, or to request the addition of new TTPs, please create an Issue. 
 
 This diagram is not inclusive, rather, it outlines major attack paths and TTPs we have used on targets in live environments.
 
@@ -22,3 +23,4 @@ If you're curious about how we've used these TTPs to exploit critical CI/CD vuln
 * [Worse Than Solarwinds - Three Steps to Hack Blockchains, GitHub, and ML Through GitHub Actions](https://johnstawinski.com/2024/01/05/worse-than-solarwinds-three-steps-to-hack-blockchains-github-and-ml-through-github-actions/)
 * [TensorFlow Supply Chain Compromise via Self-Hosted Runner Attack](https://www.praetorian.com/blog/tensorflow-supply-chain-compromise-via-self-hosted-runner-attack)
 * [Compromising ByteDance’s Rspack using GitHub Actions Vulnerabilities](https://www.praetorian.com/blog/compromising-bytedances-rspack-github-actions-vulnerabilities/)
+
