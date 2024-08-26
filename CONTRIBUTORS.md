@@ -9,9 +9,9 @@ GitHub: @jstawinski
 ## Contributors
 Name: Adnan Khan \
 Contributions: Discovery of several TTPs used in the diagram and development of tools like [Gato-X](https://github.com/AdnaneKhan/Gato-X). \
-GitHub: @AdnaneKhan \
+GitHub: @AdnaneKhan 
 
 
 Name: Shay Berkovich \
 Contributions: Addition of dependency poisoning through reuseable workflows or workflow dependecies. \
-GitHub: @sshayb \
+GitHub: @sshayb 
