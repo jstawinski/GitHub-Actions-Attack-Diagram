@@ -1,7 +1,7 @@
 ## Maintainers
 Just me (John Stawinski)
 
-Website: https://johnstawinski.com
+Website: https://johnstawinski.com \
 LinkedIn: https://www.linkedin.com/in/john-stawinski-72ba87191/
 Email: jstan327@gmail.com
 GitHub: @jstawinski
