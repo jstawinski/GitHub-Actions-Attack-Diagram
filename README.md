@@ -5,7 +5,7 @@ The GitHub Actions Attack Diagram provides guidance for identifying GitHub Actio
 
 The diagram outlines common attack paths [Adnan Khan ](https://adnanthekhan.com/) and I have used on Red Team engagements and during public vulnerability research. We presented this research in-depth at Black Hat USA 2024 ([Continuous Integration, Continuous Desctruction](https://www.blackhat.com/us-24/briefings/schedule/index.html#self-hosted-github-cicd-runners-continuous-integration-continuous-destruction-38308), [slides](https://johnstawinski.com/wp-content/uploads/2024/08/us24-khan-stawinski-self-hosted-github-cicd-runners-continuous-integration-continuous-destruction.pdf)) and DEF CON 32 ([Grand Theft Actions](https://defcon.org/html/defcon-32/dc-32-speakers.html#54489), [slides](https://johnstawinski.com/wp-content/uploads/2024/08/khan_stawinski_grandtheftactions_pdfslides_v2.pdf)).
 
-These attack paths may change over time as GitHub updates their internal configurations. If you notice that certain TTPs are no longer valid, or to request the addition of new TTPs, please create an Issue. 
+These attack paths may change over time as GitHub updates their internal configurations. If you notice that certain TTPs are no longer valid or to request the addition of new TTPs, please create an Issue, and I'll add you to the Contributors list.
 
 This diagram is not inclusive, rather, it outlines major attack paths and TTPs we have used on targets in live environments.
 
