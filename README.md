@@ -16,6 +16,7 @@ Enjoy:)
 If you're curious about how we've used these TTPs to exploit critical CI/CD vulnerabilities in the wild, you can check out our BH/DC talks linked above, or read some of the following blog posts we've released.
 
 * [Playing With Fire - How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/comment-page-1/)
+* [CodeQLEAKED - Public Secrets Exposure Leads to Supply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [Fixing Typos and Breaching Microsoft's Perimeter](https://johnstawinski.com/2024/04/15/fixing-typos-and-breaching-microsofts-perimeter/)
 * [One Supply Chain Attack to Rule Them All](https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/)
 * [RoguePuppet](https://adnanthekhan.com/2024/07/02/roguepuppet-a-critical-puppet-forge-supply-chain-vulnerability/)
